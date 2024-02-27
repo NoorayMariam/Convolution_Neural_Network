@@ -51,7 +51,8 @@ Convolution Neural Network for binary classification of Dogs and Cats.
 
 6. Images are to be separated as Training, Testing and Validation set.
 
-#Requirements to run the model
+#Requirements to run the model are as follows:
+
 --> Running on CPU will overheat the computer and take up lot of time.
 
 --> Before running the model in the device/computer, kindly make sure to connect the platform with GPU. If visual studio codes(preferred) is used, then turn on GPU Acceleration from the settings section.
